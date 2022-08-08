@@ -1,0 +1,15 @@
+/Users/franciscoavila/Desktop/C# Projects/adventure/bin/Debug/net6.0/adventure
+/Users/franciscoavila/Desktop/C# Projects/adventure/bin/Debug/net6.0/adventure.deps.json
+/Users/franciscoavila/Desktop/C# Projects/adventure/bin/Debug/net6.0/adventure.runtimeconfig.json
+/Users/franciscoavila/Desktop/C# Projects/adventure/bin/Debug/net6.0/adventure.dll
+/Users/franciscoavila/Desktop/C# Projects/adventure/bin/Debug/net6.0/adventure.pdb
+/Users/franciscoavila/Desktop/C# Projects/adventure/obj/Debug/net6.0/adventure.csproj.AssemblyReference.cache
+/Users/franciscoavila/Desktop/C# Projects/adventure/obj/Debug/net6.0/adventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscoavila/Desktop/C# Projects/adventure/obj/Debug/net6.0/adventure.AssemblyInfoInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/adventure/obj/Debug/net6.0/adventure.AssemblyInfo.cs
+/Users/franciscoavila/Desktop/C# Projects/adventure/obj/Debug/net6.0/adventure.csproj.CoreCompileInputs.cache
+/Users/franciscoavila/Desktop/C# Projects/adventure/obj/Debug/net6.0/adventure.dll
+/Users/franciscoavila/Desktop/C# Projects/adventure/obj/Debug/net6.0/refint/adventure.dll
+/Users/franciscoavila/Desktop/C# Projects/adventure/obj/Debug/net6.0/adventure.pdb
+/Users/franciscoavila/Desktop/C# Projects/adventure/obj/Debug/net6.0/adventure.genruntimeconfig.cache
+/Users/franciscoavila/Desktop/C# Projects/adventure/obj/Debug/net6.0/ref/adventure.dll
